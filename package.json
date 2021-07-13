@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "serve": "parcel index.html",
   "scripts": {},
   "keywords": [],
   "author": "",
@@ -20,6 +21,6 @@
   },
   "dependencies": {
     "node": "^15.8.0",
-    "yargs-parser": ">=13.1.2"    
+    "yargs-parser": ">=13.1.2"
   }
 }
